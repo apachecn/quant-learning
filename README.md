@@ -5,7 +5,7 @@
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
 * [在线阅读](https://quant.apachecn.org)
-* [ApacheCN 财务提升交流群 915394271](点击链接加入群聊【财务提升+情感 | iBooker】：https://jq.qq.com/?_wv=1027&k=3b2GY1jt)
+* [ApacheCN 财务提升交流群 915394271](https://jq.qq.com/?_wv=1027&k=3b2GY1jt)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
 
 ## 联系方式
