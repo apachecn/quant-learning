@@ -6,7 +6,7 @@
 >
 > 你要么要软件质量，要么要指针算法；两者不可兼得。——Bertrand Meyer
 
-* [在线阅读](https://quant.apachecn.org)
+* [在线阅读](https://qlearn.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/quant-learning/)
 * [ApacheCN 财务提升交流群 915394271](https://jq.qq.com/?_wv=1027&k=3b2GY1jt)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
